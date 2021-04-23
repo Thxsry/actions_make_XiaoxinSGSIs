@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://www.coolapk.com/link?url=https%3A%2F%2Fhugeota.d.miui.com%2F21.3.30%2Fmiui_CMI_21.3.30_ea81937d5a_11.0.zip",
-  "rom_name": "miui_CMI_21.3.30_ea81937d5a_11.0.zip",
-  "pack_sgsi": "Xiaoxin.7z",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu18_Pro/9.0.1.1/cn/20210401154119/0c64275d/update.zip",
+  "rom_name": "update.zip",
+  "pack_sgsi": "flyme9.7z",
   "make_miui": true,
-  "make_flyme": false,
+  "make_flyme": true,
   "make_coloros": false,
   "make_h2os": false,
   "make_smartisanos": false,
